@@ -2,3 +2,5 @@ Shoes
 Shirts
 Jeans
 Caps
+Socks
+Gloves
