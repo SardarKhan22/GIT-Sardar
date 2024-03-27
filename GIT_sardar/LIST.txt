@@ -1,4 +1,4 @@
-Shoes
-Shirts
-Jeans
-Caps
+Wireless
+IoT
+Satellite
+5G
